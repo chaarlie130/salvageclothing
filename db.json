@@ -1,0 +1,12 @@
+{
+"Clothing" : [
+    {
+      "id": 1,
+      "title": "Patagonia nano puff jacket",
+      "price": 60,
+      "brand": "Patagonia",
+      "picture": "https://u-mercari-images.mercdn.net/photos/m43549863300_1.jpg?width=1024&height=1024&format=pjpg&auto=webp&fit=crop&_=1670983288",
+      "color": "black",
+    }
+  ]
+}
